@@ -1,0 +1,8 @@
+A few notes on how I name my notebooks and files:
+
+[version_number]_[a_short_description]_YYYY-MM-DD.ipynb
+
+So an example of this would look like
+
+1_exploratory-data-analysis_2020-09-17.ipynb
+
